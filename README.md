@@ -1,3 +1,3 @@
 # online-calculator
 
-A fully functional calculator with working GUI
+A fully functional calculator with working GUI (WIP)
